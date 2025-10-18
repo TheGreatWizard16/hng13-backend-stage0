@@ -1,4 +1,4 @@
-# 🚀 HNG13 Backend Stage 0 — Dynamic Profile Endpoint (FastAPI)
+# 🚀 HNG13 Backend Stage 0 : Dynamic Profile Endpoint (FastAPI)
 
 ## 👤 Author
 **Name:** Segun Oladimeji  
